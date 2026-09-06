@@ -1,0 +1,16 @@
+{
+    "seed": 42,
+    "train_start": "2018-07-01 00:00:00",
+    "train_end": "2023-06-30 00:00:00",
+    "test_start": "2023-07-01 00:00:00",
+    "test_end": "2025-06-30 00:00:00",
+    "min_completeness": 0.9,
+    "population_size": 120,
+    "snn_epochs": 250,
+    "snn_learning_rate": 0.2,
+    "ann_hidden": 16,
+    "ann_epochs": 150,
+    "ann_learning_rate": 0.02,
+    "final_k": 40,
+    "transaction_cost": 0.0025
+}
